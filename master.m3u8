@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-VERSION:3
+
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Stereo",DEFAULT=YES,AUTOSELECT=YES,URI="https://vfdbdfbd.pages.dev/1782026820/a53f9e05f06e40ac8e5f9587b1635a97/gpxt_CNcZUFERy55M1NK_IW3esDPaysyi2lBCIbszZU/us-list/0c6964d26bcd450cb7d8c8af10b9da20/https%3A%2F%2Fdynaman-nv-4.slg.dishtech.org%2Fmanifest%2F560%2Fwidevine%2Faudio%2FRBATxgXAT3W0cb9bSyHAcQ%2F1782018646%2F28%2Fp-cdn1-811-cg14-linear-cbd46b77.movetv.com%2Fstereo%2F192.m3u8%3Flocation_zip%3Dsling?dvrWindow=16"
+
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,AUDIO="audio"
+https://vfdbdfbd.pages.dev/1782026820/a53f9e05f06e40ac8e5f9587b1635a97/gpxt_CNcZUFERy55M1NK_IW3esDPaysyi2lBCIbszZU/us-list/0c6964d26bcd450cb7d8c8af10b9da20/https%3A%2F%2Fdynaman-nv-4.slg.dishtech.org%2Fmanifest%2F560%2Fwidevine%2Fvideo%2FRBATxgXAT3W0cb9bSyHAcQ%2F1782018646%2F28%2Fp-cdn1-811-cg14-linear-cbd46b77.movetv.com%2Fvid06.m3u8%3Flocation_zip%3Dsling?dvrWindow=16
